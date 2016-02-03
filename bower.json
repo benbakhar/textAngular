@@ -4,8 +4,7 @@
   "main": [
     "./dist/textAngular.js",
     "./dist/textAngular-sanitize.js",
-    "./dist/textAngularSetup.js",
-    "./dist/textAngular.css"
+    "./dist/textAngularSetup.js"
   ],
   "description": "A radically powerful Text-Editor/Wysiwyg editor for Angular.js",
   "keywords": [
